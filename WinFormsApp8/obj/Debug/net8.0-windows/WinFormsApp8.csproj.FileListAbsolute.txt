@@ -1,0 +1,6 @@
+D:\.NET\WinFormsApp8\obj\Debug\net8.0-windows\WinFormsApp8.Form1.resources
+D:\.NET\WinFormsApp8\obj\Debug\net8.0-windows\WinFormsApp8.csproj.GenerateResource.cache
+D:\.NET\WinFormsApp8\obj\Debug\net8.0-windows\WinFormsApp8.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\WinFormsApp8\obj\Debug\net8.0-windows\WinFormsApp8.AssemblyInfoInputs.cache
+D:\.NET\WinFormsApp8\obj\Debug\net8.0-windows\WinFormsApp8.AssemblyInfo.cs
+D:\.NET\WinFormsApp8\obj\Debug\net8.0-windows\WinFormsApp8.csproj.CoreCompileInputs.cache
